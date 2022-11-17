@@ -18,7 +18,7 @@ import random
 from deap import base, creator
 from deap import tools
 
-import evol_simple.DatosMochila as dm
+import DatosMochila as dm
 
 #%%
 def configuraPoblacion(toolbox):
